@@ -1,0 +1,6 @@
+2019-03-03 14:32:00 Log.py[line:21] DEBUG hi
+2019-03-03 14:32:00 Log.py[line:29] INFO gloryroad
+2019-03-03 14:32:00 Log.py[line:25] WARNING hello
+2019-03-03 14:32:30 Log.py[line:17] DEBUG hi
+2019-03-03 14:32:30 Log.py[line:25] INFO gloryroad
+2019-03-03 14:32:30 Log.py[line:21] WARNING hello
